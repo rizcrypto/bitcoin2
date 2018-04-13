@@ -86,7 +86,7 @@ const uint64_t MIN_BLOCK_REWARD                              = (UINT64_C(75) * p
 const uint64_t REWARD_HALVING_INTERVAL                       = (UINT64_C(10));  //will be changed to 10000 blocks after testing
 
 const char     CRYPTONOTE_NAME[]                             = "bitcoin2";
-const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010601ff00018080d194b574029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121018cff1ff11f4150402e9c945c646ef27adcc2a8e75d79cfbf8f7e14e2731fa6e6";
 const uint32_t GENESIS_NONCE                                 = 786;
 
 const uint8_t  TRANSACTION_VERSION_1                         =  1;
